@@ -1,2 +1,2 @@
 # DeepRecSys
-An easy-to-use library which has implemented a range of state-of-the-art deep learning models via Paddle Paddle for recommendation systems. 
+An easy-to-use library including a range of state-of-the-art deep learning algorithms via Paddle Paddle for recommendation systems. 
